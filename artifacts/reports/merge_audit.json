@@ -1,0 +1,29 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "check": "route_day_row_count_preserved",
+      "status": "pass",
+      "detail": "expected=17532, got=17532"
+    },
+    {
+      "check": "route_metadata_join",
+      "status": "pass",
+      "detail": "null_route_type_rows=0"
+    },
+    {
+      "check": "traffic_join",
+      "status": "pass",
+      "detail": "null_congestion_rows=0"
+    }
+  ],
+  "row_counts": {
+    "ridership_rows": 223533,
+    "traffic_rows": 1461,
+    "route_day_rows": 17532
+  },
+  "date_range": {
+    "min_date": "2022-01-01",
+    "max_date": "2025-12-31"
+  }
+}

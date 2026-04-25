@@ -1,0 +1,842 @@
+[
+  {
+    "scenario_id": "scenario_0_3c1c7d7b",
+    "budget": 0,
+    "congestion_multiplier": 1.0,
+    "routes_stabilized": 9,
+    "capital_efficiency_routes_per_bus": 9.0,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1995.0,
+        "overload_before_pct": 12.832080200501252,
+        "additional_units": 0,
+        "overload_after_pct": 12.832080200501252,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3341.1428571428573,
+        "overload_before_pct": 11.309218402599617,
+        "additional_units": 0,
+        "overload_after_pct": 11.309218402599617,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3338.5714285714284,
+        "overload_before_pct": 10.526315789473689,
+        "additional_units": 0,
+        "overload_after_pct": 10.526315789473689,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2107.285714285714,
+        "overload_before_pct": 6.962239848145892,
+        "additional_units": 0,
+        "overload_after_pct": 6.962239848145892,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2247.285714285714,
+        "overload_before_pct": 6.751001207806246,
+        "additional_units": 0,
+        "overload_after_pct": 6.751001207806246,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3965.285714285714,
+        "overload_before_pct": 4.8348164426991405,
+        "additional_units": 0,
+        "overload_after_pct": 4.8348164426991405,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 3125.1428571428573,
+        "overload_before_pct": 3.7712561711464554,
+        "additional_units": 0,
+        "overload_after_pct": 3.7712561711464554,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 3216.714285714286,
+        "overload_before_pct": 2.5269796154016944,
+        "additional_units": 0,
+        "overload_after_pct": 2.5269796154016944,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3524.428571428572,
+        "overload_before_pct": 1.0092821531352432,
+        "additional_units": 0,
+        "overload_after_pct": 1.0092821531352432,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 4022.571428571429,
+        "overload_before_pct": 0.010654165778811443,
+        "additional_units": 0,
+        "overload_after_pct": 0.010654165778811443,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_0_3c1c7d7b.csv"
+  },
+  {
+    "scenario_id": "scenario_30_c30ed3d2",
+    "budget": 30,
+    "congestion_multiplier": 1.0,
+    "routes_stabilized": 12,
+    "capital_efficiency_routes_per_bus": 0.4,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1995.0,
+        "overload_before_pct": 12.832080200501252,
+        "additional_units": 7,
+        "overload_after_pct": 2.3320802005012524,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3341.1428571428573,
+        "overload_before_pct": 11.309218402599617,
+        "additional_units": 6,
+        "overload_after_pct": 2.309218402599617,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3338.5714285714284,
+        "overload_before_pct": 10.526315789473689,
+        "additional_units": 6,
+        "overload_after_pct": 1.5263157894736885,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2107.285714285714,
+        "overload_before_pct": 6.962239848145892,
+        "additional_units": 4,
+        "overload_after_pct": 0.9622398481458916,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2247.285714285714,
+        "overload_before_pct": 6.751001207806246,
+        "additional_units": 3,
+        "overload_after_pct": 2.2510012078062456,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3965.285714285714,
+        "overload_before_pct": 4.8348164426991405,
+        "additional_units": 2,
+        "overload_after_pct": 1.8348164426991405,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 3125.1428571428573,
+        "overload_before_pct": 3.7712561711464554,
+        "additional_units": 1,
+        "overload_after_pct": 2.2712561711464554,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 3216.714285714286,
+        "overload_before_pct": 2.5269796154016944,
+        "additional_units": 1,
+        "overload_after_pct": 1.0269796154016944,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3524.428571428572,
+        "overload_before_pct": 1.0092821531352432,
+        "additional_units": 0,
+        "overload_after_pct": 1.0092821531352432,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 4022.571428571429,
+        "overload_before_pct": 0.010654165778811443,
+        "additional_units": 0,
+        "overload_after_pct": 0.010654165778811443,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_30_c30ed3d2.csv"
+  },
+  {
+    "scenario_id": "scenario_60_4970371a",
+    "budget": 60,
+    "congestion_multiplier": 1.0,
+    "routes_stabilized": 12,
+    "capital_efficiency_routes_per_bus": 0.2,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1995.0,
+        "overload_before_pct": 12.832080200501252,
+        "additional_units": 9,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3341.1428571428573,
+        "overload_before_pct": 11.309218402599617,
+        "additional_units": 8,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3338.5714285714284,
+        "overload_before_pct": 10.526315789473689,
+        "additional_units": 8,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2107.285714285714,
+        "overload_before_pct": 6.962239848145892,
+        "additional_units": 5,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2247.285714285714,
+        "overload_before_pct": 6.751001207806246,
+        "additional_units": 5,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3965.285714285714,
+        "overload_before_pct": 4.8348164426991405,
+        "additional_units": 4,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 3125.1428571428573,
+        "overload_before_pct": 3.7712561711464554,
+        "additional_units": 3,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 3216.714285714286,
+        "overload_before_pct": 2.5269796154016944,
+        "additional_units": 2,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3524.428571428572,
+        "overload_before_pct": 1.0092821531352432,
+        "additional_units": 1,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 4022.571428571429,
+        "overload_before_pct": 0.010654165778811443,
+        "additional_units": 1,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_60_4970371a.csv"
+  },
+  {
+    "scenario_id": "scenario_90_ebc819bb",
+    "budget": 90,
+    "congestion_multiplier": 1.0,
+    "routes_stabilized": 12,
+    "capital_efficiency_routes_per_bus": 0.13333333333333333,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1995.0,
+        "overload_before_pct": 12.832080200501252,
+        "additional_units": 9,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3341.1428571428573,
+        "overload_before_pct": 11.309218402599617,
+        "additional_units": 8,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3338.5714285714284,
+        "overload_before_pct": 10.526315789473689,
+        "additional_units": 8,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2107.285714285714,
+        "overload_before_pct": 6.962239848145892,
+        "additional_units": 5,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2247.285714285714,
+        "overload_before_pct": 6.751001207806246,
+        "additional_units": 5,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3965.285714285714,
+        "overload_before_pct": 4.8348164426991405,
+        "additional_units": 4,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 3125.1428571428573,
+        "overload_before_pct": 3.7712561711464554,
+        "additional_units": 3,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 3216.714285714286,
+        "overload_before_pct": 2.5269796154016944,
+        "additional_units": 2,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3524.428571428572,
+        "overload_before_pct": 1.0092821531352432,
+        "additional_units": 1,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 4022.571428571429,
+        "overload_before_pct": 0.010654165778811443,
+        "additional_units": 1,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_90_ebc819bb.csv"
+  },
+  {
+    "scenario_id": "scenario_60_c1eb24bb",
+    "budget": 60,
+    "congestion_multiplier": 1.05,
+    "routes_stabilized": 12,
+    "capital_efficiency_routes_per_bus": 0.2,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1900.0,
+        "overload_before_pct": 18.47368421052632,
+        "additional_units": 11,
+        "overload_after_pct": 1.9736842105263186,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3182.0408163265306,
+        "overload_before_pct": 16.874679322729605,
+        "additional_units": 10,
+        "overload_after_pct": 1.8746793227296052,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3179.5918367346935,
+        "overload_before_pct": 16.05263157894738,
+        "additional_units": 9,
+        "overload_after_pct": 2.5526315789473806,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2006.9387755102039,
+        "overload_before_pct": 12.310351840553196,
+        "additional_units": 7,
+        "overload_after_pct": 1.8103518405531958,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2140.2721088435374,
+        "overload_before_pct": 12.088551268196559,
+        "additional_units": 6,
+        "overload_after_pct": 3.088551268196559,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3776.4625850340135,
+        "overload_before_pct": 10.076557264834099,
+        "additional_units": 5,
+        "overload_after_pct": 2.576557264834099,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 2976.326530612245,
+        "overload_before_pct": 8.959818979703787,
+        "additional_units": 4,
+        "overload_after_pct": 2.959818979703787,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 3063.5374149659865,
+        "overload_before_pct": 7.653328596171778,
+        "additional_units": 4,
+        "overload_after_pct": 1.6533285961717779,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3356.5986394557826,
+        "overload_before_pct": 6.0597462607920125,
+        "additional_units": 2,
+        "overload_after_pct": 3.0597462607920125,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 3831.0204081632655,
+        "overload_before_pct": 5.0111868740677545,
+        "additional_units": 2,
+        "overload_after_pct": 2.0111868740677545,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_60_c1eb24bb.csv"
+  },
+  {
+    "scenario_id": "scenario_60_f0b977c0",
+    "budget": 60,
+    "congestion_multiplier": 1.15,
+    "routes_stabilized": 1,
+    "capital_efficiency_routes_per_bus": 0.016666666666666666,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 1734.7826086956522,
+        "overload_before_pct": 29.756892230576437,
+        "additional_units": 11,
+        "overload_after_pct": 13.256892230576437,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 2905.3416149068325,
+        "overload_before_pct": 28.005601162989556,
+        "additional_units": 10,
+        "overload_after_pct": 13.005601162989556,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 2903.105590062112,
+        "overload_before_pct": 27.105263157894736,
+        "additional_units": 10,
+        "overload_after_pct": 12.105263157894736,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 1832.4223602484474,
+        "overload_before_pct": 23.00657582536776,
+        "additional_units": 7,
+        "overload_after_pct": 12.506575825367761,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 1954.1614906832299,
+        "overload_before_pct": 22.763651388977173,
+        "additional_units": 7,
+        "overload_after_pct": 12.263651388977173,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 3448.074534161491,
+        "overload_before_pct": 20.560038909103994,
+        "additional_units": 5,
+        "overload_after_pct": 13.060038909103994,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 111,
+        "Route_Code": "C04",
+        "Route_Type": "City",
+        "Total_Pax": 3243,
+        "baseline_capacity": 2717.515527950311,
+        "overload_before_pct": 19.336944596818412,
+        "additional_units": 4,
+        "overload_after_pct": 13.336944596818412,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 112,
+        "Route_Code": "X66",
+        "Route_Type": "Express",
+        "Total_Pax": 3298,
+        "baseline_capacity": 2797.1428571428573,
+        "overload_before_pct": 17.906026557711943,
+        "additional_units": 3,
+        "overload_after_pct": 13.406026557711943,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3064.7204968944106,
+        "overload_before_pct": 16.160674476105523,
+        "additional_units": 2,
+        "overload_after_pct": 13.160674476105523,
+        "stabilized": false
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 3497.8881987577647,
+        "overload_before_pct": 15.012252290645616,
+        "additional_units": 1,
+        "overload_after_pct": 13.512252290645616,
+        "stabilized": false
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_60_f0b977c0.csv"
+  },
+  {
+    "scenario_id": "scenario_30_caf28543",
+    "budget": 30,
+    "congestion_multiplier": 0.9,
+    "routes_stabilized": 12,
+    "capital_efficiency_routes_per_bus": 0.4,
+    "top_recommendations": [
+      {
+        "Route_ID": 109,
+        "Route_Code": "E16",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2251,
+        "baseline_capacity": 2216.6666666666665,
+        "overload_before_pct": 1.5488721804511347,
+        "additional_units": 2,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 102,
+        "Route_Code": "C02",
+        "Route_Type": "City",
+        "Total_Pax": 3719,
+        "baseline_capacity": 3712.3809523809523,
+        "overload_before_pct": 0.1782965623396637,
+        "additional_units": 1,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 103,
+        "Route_Code": "C03",
+        "Route_Type": "City",
+        "Total_Pax": 4157,
+        "baseline_capacity": 4405.873015873016,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 101,
+        "Route_Code": "C01",
+        "Route_Type": "City",
+        "Total_Pax": 4023,
+        "baseline_capacity": 4469.52380952381,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 104,
+        "Route_Code": "X11",
+        "Route_Type": "Express",
+        "Total_Pax": 3690,
+        "baseline_capacity": 3709.523809523809,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 105,
+        "Route_Code": "X28",
+        "Route_Type": "Express",
+        "Total_Pax": 3560,
+        "baseline_capacity": 3916.0317460317465,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 107,
+        "Route_Code": "F18",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2399,
+        "baseline_capacity": 2496.9841269841268,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 106,
+        "Route_Code": "F12",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2254,
+        "baseline_capacity": 2341.428571428571,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 108,
+        "Route_Code": "F25",
+        "Route_Type": "Feeder",
+        "Total_Pax": 2214,
+        "baseline_capacity": 2620.4761904761913,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      },
+      {
+        "Route_ID": 110,
+        "Route_Code": "E22",
+        "Route_Type": "Intercity",
+        "Total_Pax": 2263,
+        "baseline_capacity": 2574.9206349206356,
+        "overload_before_pct": 0.0,
+        "additional_units": 0,
+        "overload_after_pct": 0.0,
+        "stabilized": true
+      }
+    ],
+    "result_csv": "D:\\SteamLibrary\\dubai route\\artifacts\\reports\\scenarios\\scenario_30_caf28543.csv"
+  }
+]

@@ -1,0 +1,13 @@
+Route_ID,Route_Code,Start_Stop,End_Stop,Route_Length_km,Avg_Travel_Time_Min,Route_Type
+101,C01,16,46,20.74,53.1,City
+102,C02,2,26,18.09,44.9,City
+103,C03,43,47,14.57,52.4,City
+104,X11,57,2,23.18,37.8,Express
+105,X28,28,51,12.48,57.2,Express
+106,F12,28,20,27.03,60.8,Feeder
+107,F18,13,7,18.1,66.4,Feeder
+108,F25,15,8,13.89,61.3,Feeder
+109,E16,48,20,22.08,56.7,Intercity
+110,E22,39,47,13.01,48.3,Intercity
+111,C04,33,54,34.4,65.0,City
+112,X66,4,56,19.02,66.8,Express

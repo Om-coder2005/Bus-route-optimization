@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.412234713976574,
+          25.179934283060227
+        ]
+      },
+      "properties": {
+        "stop_id": 1,
+        "stop_name": "Res_InternationalCity_Stop_01",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31537804369378,
+          25.242762397639066
+        ]
+      },
+      "properties": {
+        "stop_id": 2,
+        "stop_name": "Core_Deira_Stop_02",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32434869458306,
+          25.296584256310148
+        ]
+      },
+      "properties": {
+        "stop_id": 3,
+        "stop_name": "Core_Deira_Stop_03",
+        "zone": "Core_Deira",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40449660385644,
+          25.15838243731953
+        ]
+      },
+      "properties": {
+        "stop_id": 4,
+        "stop_name": "Res_InternationalCity_Stop_04",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.235734395106846,
+          25.19083924543132
+        ]
+      },
+      "properties": {
+        "stop_id": 5,
+        "stop_name": "CBD_BusinessBay_Stop_05",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.24852248004768,
+          25.214328901619027
+        ]
+      },
+      "properties": {
+        "stop_id": 6,
+        "stop_name": "CBD_Downtown_Stop_06",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2507539259733,
+          25.179839518489576
+        ]
+      },
+      "properties": {
+        "stop_id": 7,
+        "stop_name": "CBD_Downtown_Stop_07",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.290954409338255,
+          25.185410500781515
+        ]
+      },
+      "properties": {
+        "stop_id": 8,
+        "stop_name": "CBD_Downtown_Stop_08",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4172184517942,
+          25.1591123455095
+        ]
+      },
+      "properties": {
+        "stop_id": 9,
+        "stop_name": "Res_InternationalCity_Stop_09",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32794879642093,
+          25.25299492299788
+        ]
+      },
+      "properties": {
+        "stop_id": 10,
+        "stop_name": "Core_Deira_Stop_10",
+        "zone": "Core_Deira",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45204556369018,
+          25.15796586775541
+        ]
+      },
+      "properties": {
+        "stop_id": 11,
+        "stop_name": "Res_InternationalCity_Stop_11",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4148894427536,
+          25.15932702392315
+        ]
+      },
+      "properties": {
+        "stop_id": 12,
+        "stop_name": "Res_InternationalCity_Stop_12",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.364583127000586,
+          25.293450898242064
+        ]
+      },
+      "properties": {
+        "stop_id": 13,
+        "stop_name": "Res_AlQusais_Stop_13",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.332872794485645,
+          25.32056626083105
+        ]
+      },
+      "properties": {
+        "stop_id": 14,
+        "stop_name": "Core_Deira_Stop_14",
+        "zone": "Core_Deira",
+        "routes_served_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3924273656238,
+          25.29176933159991
+        ]
+      },
+      "properties": {
+        "stop_id": 15,
+        "stop_name": "Res_AlQusais_Stop_15",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10333411572926,
+          25.0568182931427
+        ]
+      },
+      "properties": {
+        "stop_id": 16,
+        "stop_name": "Coastal_Marina_Stop_16",
+        "zone": "Coastal_Marina",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.33014244452438,
+          25.255787224580803
+        ]
+      },
+      "properties": {
+        "stop_id": 17,
+        "stop_name": "Core_Deira_Stop_17",
+        "zone": "Core_Deira",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31168857765256,
+          25.24238895390637
+        ]
+      },
+      "properties": {
+        "stop_id": 18,
+        "stop_name": "Core_Deira_Stop_18",
+        "zone": "Core_Deira",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32123352577681,
+          25.25146155999388
+        ]
+      },
+      "properties": {
+        "stop_id": 19,
+        "stop_name": "Core_Deira_Stop_19",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29675496919187,
+          25.20964245589426
+        ]
+      },
+      "properties": {
+        "stop_id": 20,
+        "stop_name": "CBD_Downtown_Stop_20",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27281575248298,
+          25.18121564953555
+        ]
+      },
+      "properties": {
+        "stop_id": 21,
+        "stop_name": "CBD_Downtown_Stop_21",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4109929395157,
+          25.24683693420905
+        ]
+      },
+      "properties": {
+        "stop_id": 22,
+        "stop_name": "Res_AlQusais_Stop_22",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.36507586751839,
+          25.25487330051988
+        ]
+      },
+      "properties": {
+        "stop_id": 23,
+        "stop_name": "Res_AlQusais_Stop_23",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31493122768658,
+          25.28169590838461
+        ]
+      },
+      "properties": {
+        "stop_id": 24,
+        "stop_name": "Core_Deira_Stop_24",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3760976049079,
+          25.284232720500952
+        ]
+      },
+      "properties": {
+        "stop_id": 25,
+        "stop_name": "Res_AlQusais_Stop_25",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28576362503987,
+          25.22790868505767
+        ]
+      },
+      "properties": {
+        "stop_id": 26,
+        "stop_name": "CBD_Downtown_Stop_26",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4314380500875,
+          25.117605097918208
+        ]
+      },
+      "properties": {
+        "stop_id": 27,
+        "stop_name": "Res_InternationalCity_Stop_27",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43584983234679,
+          25.141624990828173
+        ]
+      },
+      "properties": {
+        "stop_id": 28,
+        "stop_name": "Res_InternationalCity_Stop_28",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42214225143024,
+          25.16560656224325
+        ]
+      },
+      "properties": {
+        "stop_id": 29,
+        "stop_name": "Res_InternationalCity_Stop_29",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40387422567543,
+          25.26121483342604
+        ]
+      },
+      "properties": {
+        "stop_id": 30,
+        "stop_name": "Res_AlQusais_Stop_30",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12496485912831,
+          25.06083012794214
+        ]
+      },
+      "properties": {
+        "stop_id": 31,
+        "stop_name": "Coastal_Marina_Stop_31",
+        "zone": "Coastal_Marina",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30216373305864,
+          25.208028966630497
+        ]
+      },
+      "properties": {
+        "stop_id": 32,
+        "stop_name": "CBD_Downtown_Stop_32",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14526534866226,
+          25.06640479592466
+        ]
+      },
+      "properties": {
+        "stop_id": 33,
+        "stop_name": "Coastal_Marina_Stop_33",
+        "zone": "Coastal_Marina",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3925110658791,
+          25.304437242671
+        ]
+      },
+      "properties": {
+        "stop_id": 34,
+        "stop_name": "Res_AlQusais_Stop_34",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26744675706804,
+          25.17195893812245
+        ]
+      },
+      "properties": {
+        "stop_id": 35,
+        "stop_name": "CBD_BusinessBay_Stop_35",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.05916094658348,
+          25.01047467240279
+        ]
+      },
+      "properties": {
+        "stop_id": 36,
+        "stop_name": "Ind_JebelAli_Stop_36",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.060308257332494,
+          24.98510226913285
+        ]
+      },
+      "properties": {
+        "stop_id": 37,
+        "stop_name": "Ind_JebelAli_Stop_37",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3032172628706,
+          25.257089670968394
+        ]
+      },
+      "properties": {
+        "stop_id": 38,
+        "stop_name": "Core_Deira_Stop_38",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.07308101713629,
+          24.98177428576668
+        ]
+      },
+      "properties": {
+        "stop_id": 39,
+        "stop_name": "Ind_JebelAli_Stop_39",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.09307917477318,
+          24.96613886383065
+        ]
+      },
+      "properties": {
+        "stop_id": 40,
+        "stop_name": "Ind_JebelAli_Stop_40",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27846972249102,
+          25.15962457569402
+        ]
+      },
+      "properties": {
+        "stop_id": 41,
+        "stop_name": "CBD_Downtown_Stop_41",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40634781438904,
+          25.172046953650995
+        ]
+      },
+      "properties": {
+        "stop_id": 42,
+        "stop_name": "Res_InternationalCity_Stop_42",
+        "zone": "Res_InternationalCity",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14103094684667,
+          25.07315278070438
+        ]
+      },
+      "properties": {
+        "stop_id": 43,
+        "stop_name": "Coastal_Marina_Stop_43",
+        "zone": "Coastal_Marina",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27385239700111,
+          25.19279641928373
+        ]
+      },
+      "properties": {
+        "stop_id": 44,
+        "stop_name": "CBD_BusinessBay_Stop_44",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28903866065374,
+          25.2088564562903
+        ]
+      },
+      "properties": {
+        "stop_id": 45,
+        "stop_name": "CBD_BusinessBay_Stop_45",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30668031437866,
+          25.181963443133007
+        ]
+      },
+      "properties": {
+        "stop_id": 46,
+        "stop_name": "CBD_Downtown_Stop_46",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32280911251621,
+          25.209737141876005
+        ]
+      },
+      "properties": {
+        "stop_id": 47,
+        "stop_name": "CBD_Downtown_Stop_47",
+        "zone": "CBD_Downtown",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.08346325216684,
+          24.97513135035593
+        ]
+      },
+      "properties": {
+        "stop_id": 48,
+        "stop_name": "Ind_JebelAli_Stop_48",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26393048691768,
+          25.187993027301754
+        ]
+      },
+      "properties": {
+        "stop_id": 49,
+        "stop_name": "CBD_BusinessBay_Stop_49",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.301689214063344,
+          25.265182886914804
+        ]
+      },
+      "properties": {
+        "stop_id": 50,
+        "stop_name": "Core_Deira_Stop_50",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3184718486127,
+          25.24375392572548
+        ]
+      },
+      "properties": {
+        "stop_id": 51,
+        "stop_name": "Core_Deira_Stop_51",
+        "zone": "Core_Deira",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.13178125246274,
+          25.089410964319235
+        ]
+      },
+      "properties": {
+        "stop_id": 52,
+        "stop_name": "Coastal_Marina_Stop_52",
+        "zone": "Coastal_Marina",
+        "routes_served_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30255876967588,
+          25.249334934153275
+        ]
+      },
+      "properties": {
+        "stop_id": 53,
+        "stop_name": "Core_Deira_Stop_53",
+        "zone": "Core_Deira",
+        "routes_served_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28512243597068,
+          25.17886509948464
+        ]
+      },
+      "properties": {
+        "stop_id": 54,
+        "stop_name": "CBD_BusinessBay_Stop_54",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.09114285508564,
+          24.98954919869208
+        ]
+      },
+      "properties": {
+        "stop_id": 55,
+        "stop_name": "Ind_JebelAli_Stop_55",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26988266565809,
+          25.179510180843423
+        ]
+      },
+      "properties": {
+        "stop_id": 56,
+        "stop_name": "CBD_BusinessBay_Stop_56",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40463645743555,
+          25.28219765588497
+        ]
+      },
+      "properties": {
+        "stop_id": 57,
+        "stop_name": "Res_AlQusais_Stop_57",
+        "zone": "Res_AlQusais",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.25665707687901,
+          25.21198793628529
+        ]
+      },
+      "properties": {
+        "stop_id": 58,
+        "stop_name": "CBD_BusinessBay_Stop_58",
+        "zone": "CBD_BusinessBay",
+        "routes_served_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.07192896418994,
+          24.99000985700692
+        ]
+      },
+      "properties": {
+        "stop_id": 59,
+        "stop_name": "Ind_JebelAli_Stop_59",
+        "zone": "Ind_JebelAli",
+        "routes_served_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32594802865153,
+          25.26952576538998
+        ]
+      },
+      "properties": {
+        "stop_id": 60,
+        "stop_name": "Core_Deira_Stop_60",
+        "zone": "Core_Deira",
+        "routes_served_count": 0
+      }
+    }
+  ]
+}

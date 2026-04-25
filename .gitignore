@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.npm
+.eslintcache
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+artifacts/metrics/
+artifacts/reports/scenarios/
+artifacts/models/*.json
+data/processed/*.csv
+!data/processed/.gitkeep
+data/raw/*.csv
+!data/raw/.gitkeep
+.gemini/
+brain/
+scratch/
+task.md
+implementation_plan.md
+walkthrough.md
